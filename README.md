@@ -1,7 +1,14 @@
 # How to Use AutoKeras for Regression
 
-* [Click here](https://youtu.be/6rcdoTv8gRk)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=6rcdoTv8gRk" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/6rcdoTv8gRk?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![How to Use AutoKeras for Regression](http://img.youtube.com/vi/6rcdoTv8gRk/0.jpg)](http://www.youtube.com/watch?v=6rcdoTv8gRk)
 
